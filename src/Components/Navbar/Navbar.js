@@ -3,7 +3,7 @@ import React from "react";
 export default function Navbar() {
     return (
         <section className="Navbar">
-            <a href="#"><image></image></a>
+            <a href="#"><img src='./img/logo.png' className="logo"></img></a>
         </section>
     )
 }

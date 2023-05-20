@@ -1,0 +1,40 @@
+.hero {
+    background-image: url(img/heroflip.png);
+    height: 90vh;
+    width: 100%;
+    background-size: cover;
+    background-position: top 25% right 0;
+    padding: 0 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.hero h4 {
+    padding-bottom: 15px;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.hero h1 {
+    color: #088178;
+}
+
+.hero button {
+    background-image: url(img/button.png);
+    background-color: transparent;
+    color: #088178;
+    border: 0;
+    padding: 1px 80px 14px 65px;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 25px;
+    margin-top: 30px;
+}
+
+.hero p {
+    margin-top: 20px;
+    font-size: 20px;
+}

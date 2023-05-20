@@ -4,7 +4,7 @@ import logo from '../../img/logo.png';
 
 export default function Navbar() {
     return (
-        <section className="Navbar">
+        <section className="header">
             <a href="#">
                 <img src={logo} className="logo" alt="Logo" />
             </a>

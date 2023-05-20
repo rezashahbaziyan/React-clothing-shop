@@ -1,5 +1,5 @@
 .hero {
-    background-image: url(img/heroflip.png);
+    background-image: url(../../img/heroflip.png);
     height: 90vh;
     width: 100%;
     background-size: cover;
@@ -22,7 +22,7 @@
 }
 
 .hero button {
-    background-image: url(img/button.png);
+    background-image: url(../../img/button.png);
     background-color: transparent;
     color: #088178;
     border: 0;

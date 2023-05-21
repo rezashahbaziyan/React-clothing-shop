@@ -4,6 +4,7 @@ import "./style.css";
 import Hero from "./Components/Hero/Hero";
 import Feature from "./Components/Feature/Feature";
 import NewProducts from "./Components/NewProducts/NewProducts";
+import Banner from "./Components/Banner/Banner";
 
 export default function App() {
     return (
@@ -12,6 +13,7 @@ export default function App() {
             <Hero />
             <Feature />
             <NewProducts />
+            <Banner />
         </div>
     )
 }

@@ -7,6 +7,7 @@ import NewProducts from "./Components/NewProducts/NewProducts";
 import Banner from "./Components/Banner/Banner";
 import AvalibelProduct from "./Components/avlabileProduct/AvalibelProduct";
 import SmBanner from "./Components/SmBanner/SmBanner";
+import Banner3 from "./Components/Banner3/Banner3";
 
 export default function App() {
     return (
@@ -18,6 +19,7 @@ export default function App() {
             <Banner />
             <AvalibelProduct title="اجناس موجود" disciption="جنس های پر طرفدار موجود در فروشگاه" />
             <SmBanner />
+            <Banner3 />
         </div>
     )
 }

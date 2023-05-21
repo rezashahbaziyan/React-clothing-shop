@@ -26,8 +26,6 @@ export default function NewProducts() {
                 <Product brand="adidas" name="تیشرت مردانه تابستانی" price="35,000" imgUrl={f8} />
                 <Product brand="adidas" name="تیشرت مردانه تابستانی" price="35,000" imgUrl={f8} />
                 <Product brand="adidas" name="تیشرت مردانه تابستانی" price="35,000" imgUrl={f8} />
-                <Product brand="adidas" name="تیشرت مردانه تابستانی" price="35,000" imgUrl={f8} />
-                <Product brand="adidas" name="تیشرت مردانه تابستانی" price="35,000" imgUrl={f8} />
             </div>
         </section>
 

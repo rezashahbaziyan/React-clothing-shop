@@ -12,7 +12,7 @@ export default function App() {
             <Navbar />
             <Hero />
             <Feature />
-            <NewProducts />
+            <NewProducts title="اجناس جدید" disciption="اجناس تابستانی شیک و مد روز" />
             <Banner />
         </div>
     )

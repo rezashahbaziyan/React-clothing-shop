@@ -9,6 +9,7 @@ import AvalibelProduct from "./Components/avlabileProduct/AvalibelProduct";
 import SmBanner from "./Components/SmBanner/SmBanner";
 import Banner3 from "./Components/Banner3/Banner3";
 import NewsLetter from "./Components/NewsLetter/NewsLetter";
+import Footer from "./Components/Footer/Footer";
 
 export default function App() {
     return (
@@ -22,6 +23,7 @@ export default function App() {
             <SmBanner />
             <Banner3 />
             <NewsLetter />
+            <Footer />
         </div>
     )
 }

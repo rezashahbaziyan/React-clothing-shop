@@ -23,6 +23,13 @@ export default function NewProducts() {
                 <Product brand="adidas" name="تیشرت مردانه تابستانی" price="15,000" imgUrl={f6} />
                 <Product brand="adidas" name="تیشرت مردانه تابستانی" price="155,000" imgUrl={f7} />
                 <Product brand="adidas" name="تیشرت مردانه تابستانی" price="35,000" imgUrl={f8} />
+                <Product brand="adidas" name="تیشرت مردانه تابستانی" price="35,000" imgUrl={f8} />
+                <Product brand="adidas" name="تیشرت مردانه تابستانی" price="35,000" imgUrl={f8} />
+                <Product brand="adidas" name="تیشرت مردانه تابستانی" price="35,000" imgUrl={f8} />
+                <Product brand="adidas" name="تیشرت مردانه تابستانی" price="35,000" imgUrl={f8} />
+                <Product brand="adidas" name="تیشرت مردانه تابستانی" price="35,000" imgUrl={f8} />
+                <Product brand="adidas" name="تیشرت مردانه تابستانی" price="35,000" imgUrl={f8} />
+                <Product brand="adidas" name="تیشرت مردانه تابستانی" price="35,000" imgUrl={f8} />
             </div>
         </section>
 

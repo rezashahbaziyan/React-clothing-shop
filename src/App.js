@@ -3,6 +3,7 @@ import Navbar from "./Components/Navbar/Navbar";
 import "./style.css";
 import Hero from "./Components/Hero/Hero";
 import Feature from "./Components/Feature/Feature";
+import NewProducts from "./Components/NewProducts/NewProducts";
 
 export default function App() {
     return (
@@ -10,6 +11,7 @@ export default function App() {
             <Navbar />
             <Hero />
             <Feature />
+            <NewProducts />
         </div>
     )
 }

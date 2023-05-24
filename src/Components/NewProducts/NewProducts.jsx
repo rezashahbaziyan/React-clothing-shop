@@ -3,7 +3,11 @@ import Product from "../Product/Product";
 import f1 from "../../img/products/f1.jpg"
 import f2 from "../../img/products/f2.jpg"
 import f3 from "../../img/products/f3.jpg"
-
+import f4 from "../../img/products/f4.jpg"
+import f5 from "../../img/products/f5.jpg"
+import f6 from "../../img/products/f6.jpg"
+import f7 from "../../img/products/f7.jpg"
+import f8 from "../../img/products/f8.jpg"
 
 export default function NewProducts(props) {
     return (

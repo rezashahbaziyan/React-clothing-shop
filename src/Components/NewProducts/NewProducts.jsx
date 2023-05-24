@@ -14,6 +14,7 @@ export default function NewProducts(props) {
         <section id="prodoct1" class="section-p1">
             <h2>{props.title}</h2>
             <p>{props.disciption}</p>
+
             <div class="pro-container">
                 <Product brand="adidas" name="تیشرت مردانه تابستانی" price="75,000" imgUrl={f1} />
                 <Product brand="nike" name="تیشرت مردانه تابستانی" price="65,000" imgUrl={f2} />

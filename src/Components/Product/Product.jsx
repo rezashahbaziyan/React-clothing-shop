@@ -4,7 +4,7 @@ import "./Product.css";
 export default function Product(props) {
     return (
         <div class="pro">
-            <img src={props.imgUrl} alt=""></img>
+            <img src={props.img}/>
             <div class="des">
                 <span>{props.brand}</span>
                 <h5>{props.name}</h5>

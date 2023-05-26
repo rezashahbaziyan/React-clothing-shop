@@ -22,7 +22,7 @@ export default function NewProducts(props) {
                 <Product brand="adidas" name="تیشرت مردانه تابستانی" price="88,000" imgUrl={f4} />
                 <Product brand="jordan" name="تیشرت مردانه تابستانی" price="99,000" imgUrl={f5} />
                 <Product brand="adidas" name="تیشرت مردانه تابستانی" price="15,000" imgUrl={f6} />
-                <Product brand="adidas" name="تیشرت مردانه تابستانی" price="155,000" imgUrl="products/f7.jpg" />
+                <Product brand="adidas" name="تیشرت مردانه تابستانی" price="155,000" imgUrl={f7} />
                 <Product brand="adidas" name="تیشرت مردانه تابستانی" price="35,000" imgUrl="products/f8.jpg" />
             </div>
         </section>
